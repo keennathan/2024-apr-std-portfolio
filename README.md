@@ -8,3 +8,7 @@ This is a portfolio website to display some services of the company "Something S
 
 ### Header
 the header component has a logo and company name along with 
+
+
+### Footer
+the footer component has social media links and the company information of the company
