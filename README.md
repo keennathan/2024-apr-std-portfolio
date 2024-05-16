@@ -7,8 +7,8 @@ This is a portfolio website to display some services of the company "Something S
 ## Components
 
 ### Header
-the header component has a logo and company name along with 
+The header component has a logo and name of the company along with the navigation bar.  The navigation bar has links to navigate to different pages.
 
 
 ### Footer
-the footer component has social media links and the company information of the company
+the footer component has social media links and the information of the company such as the contact number and the address.
