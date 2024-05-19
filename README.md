@@ -20,3 +20,6 @@ The home page displays an image and some random text for now.
 
 ### Serlvices 
 The services page shows the services provided by the company with an image and the title of the service.
+
+### About 
+The about page utilises CSS grid to some information about the company.
